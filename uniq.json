@@ -1,1 +1,1 @@
-{"id":"9451092f-563c-4999-a10b-fc059a187be7","ingredients":[],"name":"Lassi aux fruits rouges"}
+{"id":"9451092f-563c-4999-a10b-fc059a187be7","ingredients":[{"amount":165.0,"name":"fruit rouge","unit":"g"},{"amount":1.0,"name":"sucre","unit":"cas"},{"amount":5.0,"name":"lait","unit":"cl"},{"amount":1.0,"name":"yaourt nature"}],"name":"Lassi aux fruits rouges","steps":[{"step":"Mixer fruit rouge, sucre et yaourt. "},{"step":"Rajouter le lait petit à petit. "},{"step":"Passer à la pas soir pour enlever les graines. "},{"step":"Conserver au frais jusqu'au service"}]}
